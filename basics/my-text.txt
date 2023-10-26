@@ -1,0 +1,10 @@
+core types
+
+number          1, 5.3, -10                             All numbers, no differentiation between integers or floats
+string          'Hello', "Hello", `Hello`               All test values
+boolean         true, false                             just these two, no "trusthy" or "falsy" values
+object          {age:30}                                Any JavaScript object, more specific types (type of object) are possible
+
+
+TypeScript's type system onlly helps you during development
+The core primitive types in TypeScript are all lowercase!
